@@ -6,18 +6,13 @@ function Navbar() {
     return (
         <header>
             <nav>
-                <h2 className='logo'>Hi Alex</h2>
+                <h2 className='logo'>cqctxs</h2>
                 <ul>
                     <li>
-                        <a href='/login'>Login</a>
+                        <a href='/projects'>projects</a>
                     </li>
                     <li>
-                        <a href='/register'>Sign Up</a>
-                    </li>
-                    <li className='search'>
-                        <a href='/search'>
-                            <FontAwesomeIcon icon={faMagnifyingGlass} />
-                        </a>
+                        <a href='/games'>games</a>
                     </li>
                     <li className='menu'>
                         <a href='/'>

@@ -51,8 +51,8 @@ function Homepage() {
       <img src={fog_5} alt="" className="parallax fog-5" data-x={0.16} data-y={0.105} />
       <img src={mountain_7} alt="" className="parallax mountain-7" data-x={0.1} data-y={0.07} />
       <div className="parallax text" data-x={0.07} data-y={0.07}>
-        <h2>Lukas</h2>
-        <h1>eatingfood</h1>
+        <h2>Hello, my name is</h2>
+        <h1>Sean Zhao</h1>
       </div>
       <img src={mountain_6} alt="" className="parallax mountain-6" data-x={0.065} data-y={0.05} />
       <img src={fog_4} alt="" className="parallax fog-4" data-x={0.135} data-y={0.05} />
